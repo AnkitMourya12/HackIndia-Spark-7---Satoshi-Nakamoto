@@ -1,5 +1,16 @@
 # NFTSTORE
 
+# output
+# 1.FRONT Page (Decentralize NFT MARKETPLACE)
+![front page](https://github.com/AnkitMourya12/HackIndia-Spark-7---Satoshi-Nakamoto/blob/main/image/Screenshot_10-9-2024_12581_localhost.jpeg)
+
+# 2. LIST Page
+![front page](https://github.com/AnkitMourya12/HackIndia-Spark-7---Satoshi-Nakamoto/blob/main/image/Screenshot_10-9-2024_125953_localhost.jpeg)
+# 3. Marketplace Page
+![front page](https://github.com/AnkitMourya12/HackIndia-Spark-7---Satoshi-Nakamoto/blob/main/image/Screenshot_10-9-2024_13045_localhost.jpeg)
+# 4. Owner Profile Page
+![front page](https://github.com/AnkitMourya12/HackIndia-Spark-7---Satoshi-Nakamoto/blob/main/image/Screenshot_10-9-2024_13128_localhost.jpeg)
+
 ## Overview
 
 This is a decentralized NFT marketplace built using Hardhat and Next.js. The marketplace allows users to mint, buy, and sell NFTs securely on the blockchain.
